@@ -1,4 +1,8 @@
 /BAApp/.vs
+/BAApp/packages
 /BAApp/BAApp.Website/bin
 /BAApp/BAApp.Website/obj/Debug
-/BAApp/packages
+/BAApp/BAApp.Services/bin
+/BAApp/BAApp.Services/obj
+/BAApp/BAApp.Data/bin
+/BAApp/BAApp.Data/obj
